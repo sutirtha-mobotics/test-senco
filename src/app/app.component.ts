@@ -22,7 +22,7 @@ export class AppComponent {
     },
     {
       name: 'carlos',
-      age: 31,
+      age: 34,
     },
   ];
 
