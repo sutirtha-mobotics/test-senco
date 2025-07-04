@@ -20,6 +20,10 @@ export class AppComponent {
       name: 'carlos',
       age: 30,
     },
+    {
+      name: 'carlos',
+      age: 31,
+    },
   ];
 
   ageArr = JSON.stringify(this.arr.map((v) => v.age));
